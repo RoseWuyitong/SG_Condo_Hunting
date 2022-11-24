@@ -1,0 +1,674 @@
+[
+    {
+        "0": "table0",
+        "1": [
+            {
+                "Launch Date*": "Jul 2022",
+                "Project Name": "AMO Residence",
+                "Location": "Ang Mo Kio Ave 1",
+                "Developer": "UOL, Singapore Land & Kheng Leong",
+                "Estimated Avg Price**": "$2,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/amo-residence\/"
+            },
+            {
+                "Launch Date*": "Sep 2022",
+                "Project Name": "Lentor Modern",
+                "Location": "Lentor Central (Lentor MRT)",
+                "Developer": "Guocoland",
+                "Estimated Avg Price**": "$2,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/lentor-modern\/"
+            },
+            {
+                "Launch Date*": "Sep 2022",
+                "Project Name": "Sky Eden @ Bedok",
+                "Location": "Bedok Central (Bedok MRT)",
+                "Developer": "Frasers Property",
+                "Estimated Avg Price**": "",
+                "Link": "https:\/\/www.propertyhunt.sg\/sky-eden-bedok\/"
+            },
+            {
+                "Launch Date*": "Oct 2022",
+                "Project Name": "Sceneca Residence",
+                "Location": "Tanah Merah Kechil Link (Tanah Merah MRT)",
+                "Developer": "MCC Land",
+                "Estimated Avg Price**": "$1,850psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/sceneca-residence\/"
+            },
+            {
+                "Launch Date*": "May 2022",
+                "Project Name": "LIV @ MB",
+                "Location": "Arthur Road (Katong Park MRT)",
+                "Developer": "Bukit Sembawang",
+                "Estimated Avg Price**": "~$2,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/liv-mb\/"
+            },
+            {
+                "Launch Date*": "April 2022",
+                "Project Name": "Piccadilly Grand",
+                "Location": "Northumberland Road (Farrer Park MRT)",
+                "Developer": "City Development Limited & MCL Land",
+                "Estimated Avg Price**": "~$2,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/piccadilly-grand\/"
+            },
+            {
+                "Launch Date*": "April 2022",
+                "Project Name": "North Gaia EC",
+                "Location": "Yishun Close \/ Yishun Avenue 9",
+                "Developer": "Sing Holdings Limited",
+                "Estimated Avg Price**": "$1,200psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/north-gaia-ec\/"
+            },
+            {
+                "Launch Date*": "Q3 2022",
+                "Project Name": "The Reserve Residences",
+                "Location": "Jalan Anak Bukit (Beauty World MRT)",
+                "Developer": "Far East Organization & Sino Group",
+                "Estimated Avg Price**": "~$2,350psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-reserve-residences\/"
+            },
+            {
+                "Launch Date*": "Q3 2022",
+                "Project Name": "TBA",
+                "Location": "Marina View (Shenton Way MRT)",
+                "Developer": "IOI Properties Group",
+                "Estimated Avg Price**": "$3,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/marina-view-condo\/"
+            },
+            {
+                "Launch Date*": "Q3 2022",
+                "Project Name": "Slim Barracks Rise Residences",
+                "Location": "Slim Barracks Rise (Buona Vista MRT)",
+                "Developer": "EL Development",
+                "Estimated Avg Price**": "$2,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/slim-barracks-rise-residences\/"
+            },
+            {
+                "Launch Date*": "Q3 2022",
+                "Project Name": "Copan Grand (EC)",
+                "Location": "Tengah Garden Walk",
+                "Developer": "CDL & MCL Land",
+                "Estimated Avg Price**": "$1,250psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/copen-grand\/"
+            },
+            {
+                "Launch Date*": "H2 2022",
+                "Project Name": "Tampines North EC",
+                "Location": "Tampines Street 62",
+                "Developer": "Qingjian Realty",
+                "Estimated Avg Price**": "$1,250psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/tampines-north-ec\/"
+            },
+            {
+                "Launch Date*": "H2 2022",
+                "Project Name": "Marina View Condo",
+                "Location": "Marina View",
+                "Developer": "IOI Properties Group",
+                "Estimated Avg Price**": "$3,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/marina-view-condo\/"
+            }
+        ]
+    },
+    {
+        "0": "table1",
+        "1": [
+            {
+                "Project Name": "Canninghill Piers (Liang Court)",
+                "Location": "River Valley Road (Fort Canning MRT)",
+                "Developer": "Capitaland and CDL",
+                "Avg Selling Price**": "$3,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/canninghill-piers-liang-court\/"
+            },
+            {
+                "Project Name": "Amber Sea",
+                "Location": "Amber Gardens",
+                "Developer": "Far East Organization",
+                "Avg Selling Price**": "$2,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/amber-sea\/"
+            },
+            {
+                "Project Name": "Parc Greenwich (EC)",
+                "Location": "Fernvale Lane",
+                "Developer": "Frasers Property",
+                "Avg Selling Price**": "From $1,080psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/parc-greenwich-ec\/"
+            },
+            {
+                "Project Name": "Bartley Vue",
+                "Location": "Bartley MRT",
+                "Developer": "Wee Hur",
+                "Avg Selling Price**": "$1,800psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/bartley-vue\/"
+            },
+            {
+                "Project Name": "The Watergardens at Canberra",
+                "Location": "Canberra Drive",
+                "Developer": "UOL, UIC, Kheng Leong",
+                "Avg Selling Price**": "From $1,382psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-watergardens-canberra\/"
+            },
+            {
+                "Project Name": "Pasir Ris 8",
+                "Location": "Pasir Ris MRT",
+                "Developer": "Allgreen",
+                "Avg Selling Price**": "$1,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/pasir-ris-8\/"
+            },
+            {
+                "Project Name": "Irwell Hill Residences",
+                "Location": "Irwell Bank Road",
+                "Developer": "City Development Limited",
+                "Avg Selling Price**": "$2,800psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/irwell-hill-residences\/"
+            },
+            {
+                "Project Name": "One Bernam",
+                "Location": "Bernam Street (Tanjong Pagar)",
+                "Developer": "MCC Land",
+                "Avg Selling Price**": "$2,500psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/one-bernam-condo\/"
+            },
+            {
+                "Project Name": "Midtown Modern",
+                "Location": "Tan Quee Lan Street (Bugis MRT)",
+                "Developer": "Guocoland & Hong Leong",
+                "Avg Selling Price**": "$2,800psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/midtown-modern\/"
+            },
+            {
+                "Project Name": "One North Eden",
+                "Location": "One North Gateway (Buona Vista MRT)",
+                "Developer": "TID (Hong Leong + Mitsui)",
+                "Avg Selling Price**": "$2,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/one-north-eden\/"
+            },
+            {
+                "Project Name": "The Atelier",
+                "Location": "Makeway Avenue (Newton MRT)",
+                "Developer": "Bukit Sembawang",
+                "Avg Selling Price**": "$2,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-atelier-condo\/"
+            },
+            {
+                "Project Name": "Provence Residence (EC)",
+                "Location": "Canberra Link (Canberra MRT)",
+                "Developer": "MCC Land",
+                "Avg Selling Price**": "$1,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/provence-residence-ec\/"
+            },
+            {
+                "Project Name": "Parc Central Residences EC",
+                "Location": "Tampines Ave 10",
+                "Developer": "Hoi Hup Group & Sunway Group",
+                "Avg Selling Price**": "$1,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/parc-central-residences-ec\/"
+            },
+            {
+                "Project Name": "Normanton Park",
+                "Location": "Normanton Park",
+                "Developer": "Kingsford Development",
+                "Avg Selling Price**": "$1,750psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/kingsford-normanton-park\/"
+            },
+            {
+                "Project Name": "The Landmark",
+                "Location": "Chin Swee Road",
+                "Developer": "SSLE Development Pte Ltd, MCC Land & ZACD Group Ltd",
+                "Avg Selling Price**": "$2,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-landmark-condo\/"
+            },
+            {
+                "Project Name": "Clavon",
+                "Location": "Clementi Ave 1",
+                "Developer": "UOL & UIC",
+                "Avg Selling Price**": "$1,550psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/clavon-condo\/"
+            },
+            {
+                "Project Name": "Forett @ Bukit Timah",
+                "Location": "Toh Tuck Road",
+                "Developer": "Qingjian Realty",
+                "Avg Selling Price**": "$1,900psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/forett-bukit-timah\/"
+            },
+            {
+                "Project Name": "Penrose",
+                "Location": "Sims Drive",
+                "Developer": "Hong Leong Group",
+                "Avg Selling Price**": "$1,600psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/penrose-condo\/"
+            },
+            {
+                "Project Name": "Kopar at Newton",
+                "Location": "Kampong Java Road (Newton MRT)",
+                "Developer": "CEL Development",
+                "Avg Selling Price**": "$2,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/kopar-at-newton\/"
+            },
+            {
+                "Project Name": "One Pearl Bank",
+                "Location": "1 Pearl Bank (Outram Park MRT)",
+                "Developer": "CapitaLand",
+                "Avg Selling Price**": "$2,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/one-pearl-bank\/"
+            },
+            {
+                "Project Name": "The Avenir",
+                "Location": "River Valley Close",
+                "Developer": "Guocoland & Hong Leong",
+                "Avg Selling Price**": "$3,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-avenir-condo\/"
+            },
+            {
+                "Project Name": "Parc Canberra EC",
+                "Location": "Canberra Link",
+                "Developer": "Hoi Hup",
+                "Avg Selling Price**": "$1,070psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/parc-canberra\/"
+            },
+            {
+                "Project Name": "Verticus",
+                "Location": "Jalan Kemaman (Balestier)",
+                "Developer": "SoilBuild",
+                "Avg Selling Price**": "$2,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/verticus-balestier\/"
+            },
+            {
+                "Project Name": "The M",
+                "Location": "Middle Road (Bugis)",
+                "Developer": "WingTai",
+                "Avg Selling Price**": "$2,450psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-m-condo-middle-road\/"
+            },
+            {
+                "Project Name": "Ola EC",
+                "Location": "Anchorvale Crescent",
+                "Developer": "Evia and Gamuda",
+                "Avg Selling Price**": "$1,070psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/ola-ec\/"
+            },
+            {
+                "Project Name": "Sengkang Grand Residences",
+                "Location": "Sengkang Central (Buangkok MRT)",
+                "Developer": "Joint Venture of Capitaland & CDL",
+                "Avg Selling Price**": "$1,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/sengkang-grand-residences\/"
+            },
+            {
+                "Project Name": "The Midwood",
+                "Location": "Hillview Rise",
+                "Developer": "Hong Leong Group",
+                "Avg Selling Price**": "$1,550psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-midwood-condo\/"
+            },
+            {
+                "Project Name": "Dairy Farm Residences",
+                "Location": "Dairy Farm Road",
+                "Developer": "United Engineering",
+                "Avg Selling Price**": "$1,500psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/dairy-farm-residences\/"
+            },
+            {
+                "Project Name": "One Holland Village Residences",
+                "Location": "Holland Road",
+                "Developer": "Far East Organisation, Sino Group & Sekisui House",
+                "Avg Selling Price**": "$2,600psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/one-holland-village-residences\/"
+            },
+            {
+                "Project Name": "Parc Clematis",
+                "Location": "Clementi",
+                "Developer": "SingHaiyi Group",
+                "Avg Selling Price**": "$1,600psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/parc-clematis\/"
+            },
+            {
+                "Project Name": "Avenue South Residence",
+                "Location": "Silat Avenue",
+                "Developer": "UOL, UIC & Kheng Leong",
+                "Avg Selling Price**": "$2,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/avenue-south-residence\/"
+            },
+            {
+                "Project Name": "Piermont Grand",
+                "Location": "Sumang Walk (10 min walk to Punggol MRT)",
+                "Developer": "CDL",
+                "Avg Selling Price**": "$1,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/piermont-grand\/"
+            },
+            {
+                "Project Name": "Haus on Handy",
+                "Location": "Handy Road (Dhoby Ghaut MRT)",
+                "Developer": "CDL",
+                "Avg Selling Price**": "$2,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/haus-on-handy\/"
+            },
+            {
+                "Project Name": "Sky Everton",
+                "Location": "Everton Road",
+                "Developer": "Sustained Land Property",
+                "Avg Selling Price**": "$2,5xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/sky-everton\/"
+            },
+            {
+                "Project Name": "RIVI\u00c8RE",
+                "Location": "Jiak Kim Street",
+                "Developer": "Frasers Property",
+                "Avg Selling Price**": "$2,800psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/riviere-condo\/"
+            },
+            {
+                "Project Name": "Amber Park",
+                "Location": "Amber Gardens",
+                "Developer": "CDL",
+                "Avg Selling Price**": "$2,500psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/amber-park\/"
+            },
+            {
+                "Project Name": "The Gazania",
+                "Location": "How Sun Drive",
+                "Developer": "SingHaiyi Group",
+                "Avg Selling Price**": "$2,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-gazania-condo\/"
+            },
+            {
+                "Project Name": "Treasure Tampines",
+                "Location": "Tampines St 11 (former Tampines Court)",
+                "Developer": "Sim Lian",
+                "Avg Selling Price**": "$1,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/treasure-at-tampines\/"
+            },
+            {
+                "Project Name": "Riverfront Residences",
+                "Location": "Upper Serangoon View (former Rio Casa)",
+                "Developer": "Oxley & Lian Beng",
+                "Avg Selling Price**": "$ 1,300 psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/riverfront-residences\/"
+            },
+            {
+                "Project Name": "Affinity Serangoon",
+                "Location": "Serangoon North Avenue 1 (former Serangoon Ville)",
+                "Developer": "Oxley & KSH Holdings",
+                "Avg Selling Price**": "$1,500psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/affinity-serangoon\/"
+            },
+            {
+                "Project Name": "Parc Esta",
+                "Location": "Changi Rd (former Eunos Ville)",
+                "Developer": "MCL Land",
+                "Avg Selling Price**": "$1,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/parc-esta-condo\/"
+            },
+            {
+                "Project Name": "Whistler Grand",
+                "Location": "West Coast Vale",
+                "Developer": "CDL",
+                "Avg Selling Price**": "$1,400psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/whistler-grand-condo\/"
+            },
+            {
+                "Project Name": "The Florence Residences",
+                "Location": "Hougang Avenue 2",
+                "Developer": "Logan Property",
+                "Avg Selling Price**": "$ 1,400 psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/florence-residences\/"
+            },
+            {
+                "Project Name": "Fourth Avenue Residences",
+                "Location": "Fourth Avenue",
+                "Developer": "Allgreen Properties",
+                "Avg Selling Price**": "$2,450psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/fourth-avenue-residences\/"
+            },
+            {
+                "Project Name": "Kent Ridge Hill Residences",
+                "Location": "South Buona Vista Rd (former Vista Park)",
+                "Developer": "Oxley Holdings",
+                "Avg Selling Price**": "$1,600psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/kent-ridge-hill-residences\/"
+            },
+            {
+                "Project Name": "The Woodleigh Residences",
+                "Location": "Bidadari \/ Woodleigh MRT (Mixed-Development)",
+                "Developer": "SPH + Kajima",
+                "Avg Selling Price**": "$1,9xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/bidadari-condo\/"
+            },
+            {
+                "Project Name": "Jade Scape",
+                "Location": "Shunfu Rd (former Shunfu Ville)",
+                "Developer": "Qingjian",
+                "Avg Selling Price**": "$1,700psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/jade-scape\/"
+            },
+            {
+                "Project Name": "Mayfair Gardens",
+                "Location": "Rifle Range Rd (former Mayfair Gardens)",
+                "Developer": "Oxley",
+                "Avg Selling Price**": "$1,900psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/mayfair-gardens\/"
+            },
+            {
+                "Project Name": "The Jovell",
+                "Location": "Flora Drive (Changi)",
+                "Developer": "Hong Leong",
+                "Avg Selling Price**": "$1,2xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-jovell-condo\/"
+            },
+            {
+                "Project Name": "South Beach Residences",
+                "Location": "Beach Road",
+                "Developer": "CDL",
+                "Avg Selling Price**": "$3,500psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/south-beach-residences\/"
+            },
+            {
+                "Project Name": "Sloane Residences",
+                "Location": "Balmoral Road",
+                "Developer": "TSky Balmoral",
+                "Avg Selling Price**": "$3,000psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/sloane-residences\/"
+            },
+            {
+                "Project Name": "Mont Botanik Residence",
+                "Location": "Jalan Remaja (Hillview)",
+                "Developer": "Tuan Sing",
+                "Avg Selling Price**": "$1,800psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/mont-botanik-residence\/"
+            },
+            {
+                "Project Name": "Daintree Residence",
+                "Location": "Toh Tuck Road (Bukit Timah)",
+                "Developer": "SP Setia",
+                "Avg Selling Price**": "$1,650psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/daintree-residence\/"
+            },
+            {
+                "Project Name": "Stirling Residences",
+                "Location": "Stirling Road (Queenstown)",
+                "Developer": "Logan Property + Nashan Group",
+                "Avg Selling Price**": "$1,750psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/stirling-residences\/"
+            },
+            {
+                "Project Name": "Park Colonial",
+                "Location": "Woodleigh Lane (Woodleigh MRT)",
+                "Developer": "CEL",
+                "Avg Selling Price**": "$1,7xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/park-colonial\/"
+            },
+            {
+                "Project Name": "120 Grange",
+                "Location": "120 Grange Road",
+                "Developer": "Roxy-Pacific",
+                "Avg Selling Price**": "$3,1xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/120-grange-condo\/"
+            },
+            {
+                "Project Name": "The Garden Residences",
+                "Location": "Serangoon North Ave 1",
+                "Developer": "Keppel Land + WingTai",
+                "Avg Selling Price**": "$1,6xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-garden-residences\/"
+            },
+            {
+                "Project Name": "Amber 45",
+                "Location": "Amber Road",
+                "Developer": "UOL",
+                "Avg Selling Price**": "$2,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/amber-45\/"
+            },
+            {
+                "Project Name": "8 Hullet",
+                "Location": "Hullet Road (Orchard)",
+                "Developer": "Lian Huat Group",
+                "Avg Selling Price**": "$3,400psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/8-hullet-condo\/"
+            },
+            {
+                "Project Name": "ParkSuites",
+                "Location": "Holland Grove Road",
+                "Developer": "Far East",
+                "Avg Selling Price**": "$2,200 psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/parksuites-holland\/"
+            },
+            {
+                "Project Name": "Marina One Residences (Phase 2)",
+                "Location": "Marina Way",
+                "Developer": "M+S",
+                "Avg Selling Price**": "$2,500 psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/marina-one-residences\/"
+            },
+            {
+                "Project Name": "Reflections at Keppel Bay",
+                "Location": "Keppel Bay View",
+                "Developer": "Keppel Land",
+                "Avg Selling Price**": "$1,8xx psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/reflections-keppel-bay\/"
+            },
+            {
+                "Project Name": "Martin Modern",
+                "Location": "Martin Place",
+                "Developer": "Guocoland",
+                "Avg Selling Price**": "$2,400 psf",
+                "Link": "http:\/\/www.propertyhunt.sg\/martin-modern-condo\/"
+            }
+        ]
+    },
+    {
+        "0": "table2",
+        "1": [
+            {
+                "Project Name": "Linq @ Beauty World",
+                "Location": "Upper Bukit Timah Road (Beauty World MRT)",
+                "Developer": "BBR Holdings",
+                "Avg Selling Price**": "$2,100psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/linq-condo-beauty-world\/"
+            },
+            {
+                "Project Name": "The Tre Ver",
+                "Location": "Potong Pasir Ave 1 (former Raintree Gardens)",
+                "Developer": "UOL + Singland",
+                "Avg Selling Price**": "$1,500psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/tre-ver-condo\/"
+            },
+            {
+                "Project Name": "The Tapestry",
+                "Location": "Tampines Ave 10",
+                "Developer": "CDL",
+                "Avg Selling Price**": "$1,400psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/tapestry-condo\/"
+            },
+            {
+                "Project Name": "Parc Botannia",
+                "Location": "Fernvale Road",
+                "Developer": "Sing Development & Wee Hur",
+                "Avg Selling Price**": "$1,300 psf",
+                "Link": "http:\/\/www.propertyhunt.sg\/parc-botannia\/"
+            },
+            {
+                "Project Name": "Margaret Ville",
+                "Location": "Margaret Drive",
+                "Developer": "MCL Land",
+                "Avg Selling Price**": "$1,9xxpsf",
+                "Link": "https:\/\/www.propertyhunt.sg\/margaret-ville\/"
+            },
+            {
+                "Project Name": "Amber 45",
+                "Location": "Amber Road",
+                "Developer": "UOL",
+                "Avg Selling Price**": "$2,300psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/amber-45\/"
+            },
+            {
+                "Project Name": "Marina One Residences (Phase 2)",
+                "Location": "Marina Way",
+                "Developer": "M+S",
+                "Avg Selling Price**": "$2,500 psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/marina-one-residences\/"
+            },
+            {
+                "Project Name": "Le Quest",
+                "Location": "Bukit Batok West Avenue 6",
+                "Developer": "Qingjian",
+                "Avg Selling Price**": "$1,3xx psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/le-quest-condo\/"
+            },
+            {
+                "Project Name": "ARTRA @ Alexandra",
+                "Location": "Alexandra View",
+                "Developer": "Tang Group",
+                "Avg Selling Price**": "$1,9xx psf",
+                "Link": "http:\/\/www.propertyhunt.sg\/artra-condo-alexandra\/"
+            },
+            {
+                "Project Name": "Seaside Residences",
+                "Location": "Siglap Road",
+                "Developer": "Frasers Property",
+                "Avg Selling Price**": "$1,8xx psf",
+                "Link": "http:\/\/www.propertyhunt.sg\/seaside-residences\/"
+            },
+            {
+                "Project Name": "Grandeur Park Residences",
+                "Location": "Bedok South Ave 3",
+                "Developer": "CEL",
+                "Avg Selling Price**": "$1,4xx psf",
+                "Link": "http:\/\/www.propertyhunt.sg\/grandeur-park-residences\/"
+            },
+            {
+                "Project Name": "Park Place Residences",
+                "Location": "Paya Lebar Rd",
+                "Developer": "Lendlease",
+                "Avg Selling Price**": "$2,000 psf",
+                "Link": "http:\/\/www.propertyhunt.sg\/park-place-residences\/"
+            },
+            {
+                "Project Name": "Queens Peak",
+                "Location": "Dundee Road",
+                "Developer": "MCC Land",
+                "Avg Selling Price**": "$1,8xx psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/queens-peak\/"
+            },
+            {
+                "Project Name": "Kallang Riverside",
+                "Location": "Kampong Bugis",
+                "Developer": "Singapore Johore Express Pte Ltd",
+                "Avg Selling Price**": "$2,3xx psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/kallang-riverside\/"
+            },
+            {
+                "Project Name": "Gem Residences",
+                "Location": "Lorong 6 Toa Payoh",
+                "Developer": "Evia & Gamuda",
+                "Avg Selling Price**": "$1,7xx psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/gem-residences\/"
+            },
+            {
+                "Project Name": "The Crest",
+                "Location": "Prince Charles Crescent",
+                "Developer": "WingTai Holdings",
+                "Avg Selling Price**": "$2,000 psf",
+                "Link": "https:\/\/www.propertyhunt.sg\/the-crest-condo\/"
+            }
+        ]
+    }
+]

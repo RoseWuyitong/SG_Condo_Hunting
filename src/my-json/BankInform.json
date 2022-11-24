@@ -1,0 +1,70 @@
+[
+    {
+        "0": "ocbc",
+        "1": {
+            "rate": [
+                {
+                    "Year": "Year 1",
+                    "Interest Rates": "3M Compounded SORA + 0.98%"
+                },
+                {
+                    "Year": "Year 2",
+                    "Interest Rates": "3M Compounded SORA + 0.98%"
+                },
+                {
+                    "Year": "Year 3",
+                    "Interest Rates": "3M Compounded SORA + 1.00%"
+                },
+                {
+                    "Year": "Thereafter",
+                    "Interest Rates": "3M Compounded SORA + 1.00%"
+                }
+            ],
+            "other": [
+                {
+                    "Min Loan Size": "S$300,000",
+                    "fixed rate": false,
+                    "sora rate": true,
+                    "floating rate": false,
+                    "fixed and sora rate": false
+                }
+            ]
+        }
+    },
+    {
+        "0": "uob",
+        "1": {
+            "rate": [
+                {
+                    "Year": "Year 1",
+                    "Interest Rates": "3M Compounded SORA + 0.70% p.a."
+                },
+                {
+                    "Year": "Year 2",
+                    "Interest Rates": "3M Compounded SORA + 0.70% p.a."
+                },
+                {
+                    "Year": "Year 3",
+                    "Interest Rates": "3M Compounded SORA + 0.80% p.a."
+                },
+                {
+                    "Year": "Year 4 and thereafter",
+                    "Interest Rates": "3M Compounded SORA + 1.00% p.a."
+                }
+            ],
+            "other": [
+                {
+                    "Lock in period": "2 years",
+                    "Min Loan Size": "S$500,000",
+                    "Special Features": "1 free conversion after 12 months from the date of first disbursement, subject to the terms and conditions in the Letter of Offer. Flexibility to prepay ^ your loan\/sell # your property, subject to the terms and conditions in the Letter of Offer.",
+                    "Other benefits": "Submit your application online & our banker will be in touch with you to share more on our limited time promotional offers. Valid only for direct applications without third party referrals.",
+                    "Additional notes": "Promotional rates are available for a limited period and only valid for completed residential properties in Singapore, for your new purchase or refinancing from another bank\/HDB. Subject to minimum loan size. Pegged to the 3-month Compounded SORA that is published on MAS' website .\u00a0 It is currently at 1.9280% p.a. (as at 27 September 2022). Find out more on SORA .",
+                    "fixed rate": true,
+                    "sora rate": true,
+                    "floating rate": false,
+                    "fixed and sora rate": true
+                }
+            ]
+        }
+    }
+]

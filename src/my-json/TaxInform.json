@@ -1,0 +1,137 @@
+{
+    "0": {
+        "0": "01-Jan-2015",
+        "1": {
+            "0": {
+                "Annual Value ($)": "8000",
+                "Effective 1 Jan 2015": "0",
+                "Property Tax Payable": "0"
+            },
+            "1": {
+                "Annual Value ($)": "47000",
+                "Effective 1 Jan 2015": "4",
+                "Property Tax Payable": "1880"
+            },
+            "2": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2015": "6",
+                "Property Tax Payable": "900"
+            },
+            "3": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2015": "8",
+                "Property Tax Payable": "1200"
+            },
+            "4": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2015": "10",
+                "Property Tax Payable": "1500"
+            },
+            "5": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2015": "12",
+                "Property Tax Payable": "1800"
+            },
+            "6": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2015": "14",
+                "Property Tax Payable": "2100"
+            },
+            "7": {
+                "Annual Value ($)": "130000",
+                "Effective 1 Jan 2015": "16",
+                "Property Tax Payable": "None"
+            }
+        }
+    },
+    "1": {
+        "0": "01-Jan-2023",
+        "1": {
+            "0": {
+                "Annual Value ($)": "8000",
+                "Effective 1 Jan 2023": "0",
+                "Property Tax Payable": "0"
+            },
+            "1": {
+                "Annual Value ($)": "22000",
+                "Effective 1 Jan 2023": "4",
+                "Property Tax Payable": "880"
+            },
+            "2": {
+                "Annual Value ($)": "10000",
+                "Effective 1 Jan 2023": "5",
+                "Property Tax Payable": "500"
+            },
+            "3": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2023": "7",
+                "Property Tax Payable": "1050"
+            },
+            "4": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2023": "10",
+                "Property Tax Payable": "1500"
+            },
+            "5": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2023": "14",
+                "Property Tax Payable": "2100"
+            },
+            "6": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2023": "18",
+                "Property Tax Payable": "2700"
+            },
+            "7": {
+                "Annual Value ($)": "100000",
+                "Effective 1 Jan 2023": "23",
+                "Property Tax Payable": "None"
+            }
+        }
+    },
+    "2": {
+        "0": "01-Jan-2024",
+        "1": {
+            "0": {
+                "Annual Value ($)": "8000",
+                "Effective 1 Jan 2024": "0",
+                "Property Tax Payable": "0"
+            },
+            "1": {
+                "Annual Value ($)": "22000",
+                "Effective 1 Jan 2024": "4",
+                "Property Tax Payable": "880"
+            },
+            "2": {
+                "Annual Value ($)": "10000",
+                "Effective 1 Jan 2024": "6",
+                "Property Tax Payable": "600"
+            },
+            "3": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2024": "10",
+                "Property Tax Payable": "1500"
+            },
+            "4": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2024": "14",
+                "Property Tax Payable": "2100"
+            },
+            "5": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2024": "20",
+                "Property Tax Payable": "3000"
+            },
+            "6": {
+                "Annual Value ($)": "15000",
+                "Effective 1 Jan 2024": "26",
+                "Property Tax Payable": "3900"
+            },
+            "7": {
+                "Annual Value ($)": "100000",
+                "Effective 1 Jan 2024": "32",
+                "Property Tax Payable": "None"
+            }
+        }
+    }
+}
