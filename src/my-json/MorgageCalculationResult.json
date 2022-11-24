@@ -1,0 +1,82 @@
+[
+    {
+        "0": "ocbc",
+        "1": [
+            {
+                "Year": "Year 0",
+                "Interest Rates": null,
+                "Annual Rate": null,
+                "Amount in SGD (Anuually Payment)": 250000.0,
+                "Amount in SGD (Monthly Payment)": 250000.0
+            },
+            {
+                "Year": "Year 1",
+                "Interest Rates": "3M Compounded SORA + 0.98%",
+                "Annual Rate": 0.0358,
+                "Amount in SGD (Anuually Payment)": 25895.0,
+                "Amount in SGD (Monthly Payment)": 2089.5486111111
+            },
+            {
+                "Year": "Year 2",
+                "Interest Rates": "3M Compounded SORA + 0.98%",
+                "Annual Rate": 0.0358,
+                "Amount in SGD (Anuually Payment)": 25895.0,
+                "Amount in SGD (Monthly Payment)": 2089.5486111111
+            },
+            {
+                "Year": "Year 3",
+                "Interest Rates": "3M Compounded SORA + 1.00%",
+                "Annual Rate": 0.036,
+                "Amount in SGD (Anuually Payment)": 25900.0,
+                "Amount in SGD (Monthly Payment)": 2089.5833333333
+            },
+            {
+                "Year": "Thereafter",
+                "Interest Rates": "3M Compounded SORA + 1.00%",
+                "Annual Rate": 0.036,
+                "Amount in SGD (Anuually Payment)": 25900.0,
+                "Amount in SGD (Monthly Payment)": 2089.5833333333
+            }
+        ]
+    },
+    {
+        "0": "uob",
+        "1": [
+            {
+                "Year": "Year 0",
+                "Interest Rates": null,
+                "Annual Rate": null,
+                "Amount in SGD (Anuually Payment)": 250000.0,
+                "Amount in SGD (Monthly Payment)": 250000.0
+            },
+            {
+                "Year": "Year 1",
+                "Interest Rates": "3M Compounded SORA + 0.70% p.a.",
+                "Annual Rate": 0.033,
+                "Amount in SGD (Anuually Payment)": 25825.0,
+                "Amount in SGD (Monthly Payment)": 2089.0625
+            },
+            {
+                "Year": "Year 2",
+                "Interest Rates": "3M Compounded SORA + 0.70% p.a.",
+                "Annual Rate": 0.033,
+                "Amount in SGD (Anuually Payment)": 25825.0,
+                "Amount in SGD (Monthly Payment)": 2089.0625
+            },
+            {
+                "Year": "Year 3",
+                "Interest Rates": "3M Compounded SORA + 0.80% p.a.",
+                "Annual Rate": 0.034,
+                "Amount in SGD (Anuually Payment)": 25850.0,
+                "Amount in SGD (Monthly Payment)": 2089.2361111111
+            },
+            {
+                "Year": "Year 4 and thereafter",
+                "Interest Rates": "3M Compounded SORA + 1.00% p.a.",
+                "Annual Rate": 0.036,
+                "Amount in SGD (Anuually Payment)": 25900.0,
+                "Amount in SGD (Monthly Payment)": 2089.5833333333
+            }
+        ]
+    }
+]
