@@ -1,10 +1,13 @@
-// import React from "react";
-// import ReactDOM from "react-dom";
-// import App from "./App";
+// import { createRoot } from "react-dom/client";
 
-// const root = createRoot(document.getElementById("root"));
+// import Footer from "./App";
 
-// root.render(<App />);
+// const rootElement = document.getElementById("root");
+// const root = createRoot(rootElement);
+
+// root.render(
+//   <Footer />
+// );
 
 
 import { StrictMode } from "react";
@@ -12,7 +15,7 @@ import { createRoot } from "react-dom/client";
 
 import App from "./App";
 
-const rootElement = document.getElementById("root");
+const rootElement = document.getElementById("root123");
 const root = createRoot(rootElement);
 
 root.render(
