@@ -84,14 +84,13 @@ header.head {
     top: 0;
 }
 
-ul {
+ul.vl {
+    border-left: 0.3vw solid rgb(0, 0, 0);
+    height: 20vw;
     font-size: 1.4vw;
     margin-left: 5%;
-}
-
-ul.vl {
-    border-left: 2px solid rgb(0, 0, 0);
-    height: 50%;
+    padding-left: 7%;
+    position: relative;
 }
 
 li {

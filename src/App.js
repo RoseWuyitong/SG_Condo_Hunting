@@ -27,7 +27,8 @@ export default function App() {
     </header>
     
     <Footer />
-    </div>);
+    </div>
+    );
 }
 
 
