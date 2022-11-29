@@ -11,6 +11,3 @@ get all Singaporean Banks' mortgage information
 [onhold]
 - getHDBInform.py -> HDBInform.json 
 get new release HDB Information
-
-
-TEST RoseWuyitong
